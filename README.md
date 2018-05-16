@@ -100,7 +100,7 @@ disp(pinv(X'*X)*X'*y);
 
 在多元线性回归问题中，我根据梯度下降和正规方程两种方法算出来theta值，可是最后两种方法预测出的结果不同，如下图：
 
-![显示](http://119.29.89.242/image/Machine-Learning_1.png)
+![显示](https://raw.githubusercontent.com/lhx1228/Machine-Learning/master/the%20frist%20program%20pratice/Machine-Learning_1.png)
 
 这是什么原因呢？
 
